@@ -1,0 +1,14 @@
+{
+  "name": "rds_start_stop",
+  "version": "1.0.0",
+  "description": "Script to start ans stop RDS service automatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keerthi Lakshmipathi",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1323.0"
+  }
+}
